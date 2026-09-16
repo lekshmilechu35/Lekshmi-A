@@ -17,5 +17,5 @@ Cloud & DevOps Professional specializing in AWS, Azure, Linux administration, an
 - **Linux System Administration**
 
 ### 📌 Featured Projects
-- [AWS Automated Infrastructure](#) - Terraform script deploying VPC, EC2, and RDS.
-- [Kubernetes CI/CD Pipeline](#) - Automated deployment workflow using GitHub Actions.
+- Deploying an Online Movie Watching Application on Cloud in Aws.
+- Contoso clinic project on Azure
